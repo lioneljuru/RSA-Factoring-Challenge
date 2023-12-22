@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+gcc factors -o a
+./a $1
